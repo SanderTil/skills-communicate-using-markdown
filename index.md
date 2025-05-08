@@ -3,3 +3,7 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ###### Header 6
+
+``` r
+Code block
+```
